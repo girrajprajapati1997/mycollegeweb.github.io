@@ -223,23 +223,23 @@ li{
 .content .box{
     width: calc(25% - 30px);
     border: 1px dashed rgba(255,255,255,0.6);
-    border-radius: 5px;
-    padding: 20px;
+    border-radius: 2px;
+    padding: 15px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     color: #fff;
     flex-direction: column;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .content .box .icon{
-    font-size: 48px;
+    font-size: 40px;
     color: #e6e6e6;
 }
 
 .content .box .counter{
-    font-size: 50px;
+    font-size: 40px;
     color: #f2f2f2;
     font-weight: 500;
     font-family: sans-serif;
